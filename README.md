@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Am Arul, an experienced data analytics professional with Verizon and TataCommunications with a Masters in Business Analytics from University of Texas at Dallas.
+Am Arul, an experienced data analytics professional with Verizon and TataCommunications with a Masters in Business Analytics - Data Science from University of Texas at Dallas.
 
 I am passionate about data and believe in AI's power to improve people's lives. I want to transfer my passion to others and guide them into this vast field through writing, teaching, and mentoring.
 
 Languages and Tools:
-bash c++ git linux opencv pandas postgresql python pytorch scikit_learn seaborn tensorflow
+bash c++ git linux pandas postgresql python pytorch scikit_learn seaborn tensorflow
 
 <!--
 **ArulAuror/ArulAuror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
