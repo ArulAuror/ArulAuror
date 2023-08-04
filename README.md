@@ -5,7 +5,7 @@ Am Arul, an experienced data analytics professional with Verizon and TataCommuni
 I am passionate about data and believe in AI's power to improve people's lives. I want to transfer my passion to others and guide them into this vast field through writing, teaching, and mentoring.
 
 Languages and Tools:
-bash c++ git linux pandas postgresql python pytorch scikit_learn seaborn tensorflow
+SQL (Oracle, MySQL, MongoDB), Python (Pandas, NumPy, scikit-learn), Big data (Hive, Hadoop), R, SAS, Tableau, PowerBI, Spark, Excel, AWS, Azure, ETL, Git
 
 <!--
 **ArulAuror/ArulAuror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
